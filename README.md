@@ -1,4 +1,5 @@
 # Concordium Hackathon Task 1
+Mainnet: 4rE1gB8evJE3r7YPAYxsjYr1VgkwiD1s4t5cUeSwhnixuVh2od
 
 ## Install Rust: 
 Follow the instructions on the Rust website.
